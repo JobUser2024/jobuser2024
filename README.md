@@ -1,7 +1,7 @@
 
 ### Hi there and welcome to my GitHub page 👋
 
-Hi there, I am a University student and a wannabe web developer from Prishtina, Kosovo. I do a lot of things, and some of them you may even find interesting. 🤞
+Hi there, I am a University student and a wannabe web developer from Prishtina, Kosovo.
 
 ---
 
